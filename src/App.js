@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import HomeScreen from "./components/homeScreen/HomeScreen";
 import { Routes, Route } from "react-router-dom";
